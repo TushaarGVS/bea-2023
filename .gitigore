@@ -1,0 +1,5 @@
+sub/*
+out/*
+err/*
+__pycache__
+tmp*
