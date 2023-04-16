@@ -7,3 +7,10 @@ models/*
 model/*
 test_load_dataset.ipynb
 dialog_RPT.ipynb
+.DS_Store
+*/.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+*/*/.ipynb_checkpoints
+*/*/*/.ipynb_checkpoints
+*/*/*/*/.ipynb_checkpoints
