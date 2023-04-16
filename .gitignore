@@ -4,3 +4,5 @@ err/*
 __pycache__
 tmp*
 models/*
+test_load_dataset.ipynb
+dialog_RPT.ipynb
